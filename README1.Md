@@ -39,7 +39,7 @@ using the terminal navigate to the folder containing this application
 and type the:
 
 if everyting is working ok, it shold look as bellow
-![Test_iMages](Unsolved/docs/Images/andrew.png)
+![Test_iMages](https://github.com/shangfii/FinTech_Test_Repository/blob/main/Test_iMages/andrew.png)
 
 command python app.py 
 
@@ -56,4 +56,4 @@ https://www.linkedin.com/in/shang-celsius-302a446b/
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+MIT
