@@ -15,11 +15,14 @@
 
 ---
 Thanks 
+[code](code)
+[data](data)
+[References](references)
 
 ---
 This is working right 
 
 '''python
-print(learning to use basic programs, see!)
- '''
+print("learning to use basic programs, see!")
+'''
 
