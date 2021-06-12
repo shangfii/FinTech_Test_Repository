@@ -26,7 +26,9 @@ Thanks
 This is working right 
 
 '''python
+
 print("learning to use basic programs, see!")
+
 '''
 >.."block quoate so you know s"
 
