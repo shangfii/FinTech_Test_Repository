@@ -3,6 +3,6 @@
 ### Testing the look and feel of things
 
 * Welcome to my Repo of FinTech, check it out!
-* * Boldly writting 
+* * Boldly written Text 
 Thanks 
 This should show up online too 
