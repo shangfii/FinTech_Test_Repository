@@ -4,7 +4,7 @@
 ### Testing the look and feel of things
 **Welcome to my Repo of FinTech, check it out**
 
-*itelics text t*
-
+*itelics text text*
+**Bold text**
 Thanks 
 This should show up online too 
