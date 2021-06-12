@@ -49,8 +49,7 @@ command python app.py
 
 Thanks to the FinTech team 
 
-[Shang Celsius]
-(https://www.linkedin.com/in/shang-celsius-302a446b/)
+![Shang Celsius](https://www.linkedin.com/in/shang-celsius-302a446b/)
 
 ---
 
