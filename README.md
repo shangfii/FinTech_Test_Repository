@@ -28,7 +28,7 @@ This is working right
 '''python
 
 print("learning to use basic programs, see!")
-
 '''
->.."block quoate so you know s"
+>.."block quoate so you knows"
 
+![Test_iMages](https://github.com/shangfii/FinTech_Test_Repository/blob/main/Test_iMages/my_image.png) 
